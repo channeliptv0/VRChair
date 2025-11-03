@@ -47,3 +47,11 @@ The program includes your example data:
 · {2000, 0, 10} - 10° roll at 2000ms
 
 Plus additional points for a complete demo sequence.
+
+
+
+
+
+
+
+Write a Arduino program where 6 solenoids (3 solenoid for pressure increase and 3 for decrease the air pressure in air cylinder) with air pressure control(a vr chair platform) as per time(in milliseconds), pitch and roll data[{0,0,0},{1000,10,0},{2000,0,10}as per video sequence data] and use a adxl345 for measure angle as per given data
